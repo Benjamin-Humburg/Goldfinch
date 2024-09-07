@@ -1,2 +1,3 @@
-# GAPE
-General Application Production Environment
+# Goldfinch
+Formerly:
+General Application Production Environment (GAPE)
