@@ -1,3 +1,2 @@
-# Goldfinch
-Formerly:
-General Application Production Environment (GAPE)
+# Finch
+General Application Production Environment
