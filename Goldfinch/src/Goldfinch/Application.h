@@ -2,9 +2,9 @@
 
 #include "Core.h"
 
-namespace Finch {
+namespace Goldfinch {
 
-	class FINCH_API Application
+	class GOLDFINCH_API Application
 	{
 	public:
 		Application();

@@ -1,6 +1,6 @@
 #include "Application.h"
 
-namespace Finch {
+namespace Goldfinch {
 
 	Application::Application()
 	{

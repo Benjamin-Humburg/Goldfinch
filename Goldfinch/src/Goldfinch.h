@@ -1,9 +1,9 @@
 #pragma once
 
 // For use by Finch applications only
-#include "Finch/Application.h"
+#include "Goldfinch/Application.h"
 
 // -----------------
 // ---Entry Point---
 // -----------------
-#include "Finch/EntryPoint.h"
+#include "Goldfinch/EntryPoint.h"

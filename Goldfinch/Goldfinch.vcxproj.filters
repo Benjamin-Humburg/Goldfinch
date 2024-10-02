@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Finch\Core.h">
+    <ClInclude Include="src\Goldfinch\Core.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\Finch\Application.h">
+    <ClInclude Include="src\Goldfinch\Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\Finch.h">
+    <ClInclude Include="src\Goldfinch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\Finch\EntryPoint.h">
+    <ClInclude Include="src\Goldfinch\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Finch\Application.cpp">
+    <ClCompile Include="src\Goldfinch\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
